@@ -1,0 +1,44 @@
+{
+  "0.005": {
+    "logical_error_rate": 0.005374777400032379,
+    "success_rate": 0.30885,
+    "iteration": 100000,
+    "logical_error": 166,
+    "detect": 69115
+  },
+  "0.001": {
+    "logical_error_rate": 0.00017729598297958564,
+    "success_rate": 0.78964,
+    "iteration": 100000,
+    "logical_error": 14,
+    "detect": 21036
+  },
+  "0.01": {
+    "logical_error_rate": 0.031041666666666665,
+    "success_rate": 0.096,
+    "iteration": 50000,
+    "logical_error": 149,
+    "detect": 45200
+  },
+  "0.002": {
+    "logical_error_rate": 0.0008632955508305223,
+    "success_rate": 0.62551,
+    "iteration": 100000,
+    "logical_error": 54,
+    "detect": 37449
+  },
+  "0.007": {
+    "logical_error_rate": 0.010585562325725498,
+    "success_rate": 0.19366,
+    "iteration": 100000,
+    "logical_error": 205,
+    "detect": 80634
+  },
+  "0.003": {
+    "logical_error_rate": 0.0017867657509492193,
+    "success_rate": 0.49251,
+    "iteration": 100000,
+    "logical_error": 88,
+    "detect": 50749
+  }
+}
